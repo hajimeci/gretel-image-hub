@@ -1,0 +1,18 @@
+# Python / PyInstaller
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Build folders
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
