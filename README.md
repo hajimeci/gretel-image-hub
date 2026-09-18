@@ -20,7 +20,7 @@ The core problem in multi-brand e-commerce is visual inconsistency: every suppli
 The true value of this tool lies in eliminating operational bottlenecks and outsourcing costs.
 
 **Standard Season Scenario (800 products x 10 views = 8,000 photographs):**
-*   **Direct Financial Savings:** Avoids the cost of $0.40 (S/ 1.50) per photo processed by an external agency. This represents a **direct saving of $3,200 (S/ 12,000)** per collection.
+*   **Direct Financial Savings:** Completely eliminates the outsourcing costs associated with external photo processing agencies per collection.
 *   **Operational Impact (Speed):** The manual work of 12 minutes per product (160 man-hours / 20 business days) is reduced to **under 5 hours** of automated background processing by the local AI.
 *   **Time-to-Market:** Products can be launched for sale on the same day the assortment is defined, maximizing *Full Price* selling days.
 

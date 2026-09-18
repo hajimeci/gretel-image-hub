@@ -20,7 +20,7 @@ El problema central del e-commerce multimarca es la inconsistencia visual: cada 
 El verdadero valor de la herramienta reside en la eliminación de cuellos de botella operativos y sobrecostos por tercerización.
 
 **Escenario de una Temporada Estándar (800 productos x 10 vistas = 8,000 fotografías):**
-*   **Ahorro Financiero Directo:** Evita el costo de S/ 1.50 por foto procesada en agencia. Representa un **ahorro de S/ 12,000** por colección.
+*   **Ahorro Financiero Directo:** Elimina por completo los sobrecostos de tercerización asociados a agencias externas de procesamiento fotográfico por cada colección.
 *   **Impacto Operativo (Velocidad):** El trabajo manual de 12 minutos por producto (160 horas hombre / 20 días laborables) se reduce a **menos de 5 horas** de procesamiento automatizado en segundo plano por la IA local.
 *   **Time-to-Market:** El producto se puede lanzar a la venta el mismo día que se define el surtido, maximizando los días de venta a *Full Price*.
 
