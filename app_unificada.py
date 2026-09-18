@@ -426,7 +426,7 @@ class UnifiedImageApp(ctk.CTk):
                 # Skip subfolders that are output folders
                 if "procesadas" in f.name.lower() or "exportxls_procesadas" in f.name.lower():
                     continue
-                if dst_dir and dst_dir in f.parents:
+                if dst_dir and dst_dir in f.parents and dst_dir.is_relative_to(src_dir):
                     continue
                 files.append(f)
                 
